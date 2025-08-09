@@ -7,3 +7,9 @@
 - Automação do navegador e preenchimento de formulários com **PyAutoGUI**.
 - Captura da posição do mouse para ajustar os cliques no script.
 - Execução passo a passo, simulando a interação humana.
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Python 3.x](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [PyAutoGUI](https://pyautogui.readthedocs.io/)
